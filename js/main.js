@@ -9,6 +9,7 @@ jQuery(function() {
     $('.closeb').click(function(e) {
       $('.btn').popover('hide');
     });
+
     e.preventDefault();
 
     $('.foo').click(function(e) {
