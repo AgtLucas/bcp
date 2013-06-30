@@ -1,4 +1,5 @@
 jQuery(function() {
+
   var isVisible = false;
   var clickedAway = false;
 
